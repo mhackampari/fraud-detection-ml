@@ -1,0 +1,4 @@
+# Files or dirs to exclude form tracking
+
+docs
+fraud-env
