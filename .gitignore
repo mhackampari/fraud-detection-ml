@@ -2,3 +2,5 @@
 
 docs
 fraud-env
+fraud-ml.code-workspace
+**/dataset/*.csv
